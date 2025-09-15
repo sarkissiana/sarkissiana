@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/sarkissiana/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/sarkissiana/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/sarkissiana/configure-ad)
+  - [Configuring Active Directory within Azure VMs]([https://github.com/sarkissiana/configure-ad)](https://github.com/sarkissiana/Configuring-Active-Directory-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/sarkissiana/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
