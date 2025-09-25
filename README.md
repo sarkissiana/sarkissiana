@@ -7,10 +7,9 @@
   - [osTicket: Post-Installation Configuration](https://github.com/sarkissiana/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/sarkissiana/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  -  [Active Directory on Azure VMs](https://github.com/sarkissiana/Configuring-Active-Directory-within-Azure-VMs)
-- [Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines](https://github.com/sarkissiana/Network-Security-Groups-and-Inspecting-Traffic-Between-Azure-VMs)
+-  [Active Directory on Azure VMs](https://github.com/sarkissiana/Configuring-Active-Directory-within-Azure-VMs)
+- [Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines](https://github.com/sarkissiana/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines)
 
-<h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
