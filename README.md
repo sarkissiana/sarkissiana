@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/sarkissiana/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   -  [Active Directory on Azure VMs](https://github.com/sarkissiana/Configuring-Active-Directory-within-Azure-VMs)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols][(https://github.com/sarkissiana/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines)](https://github.com/sarkissiana/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines.git)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/sarkissiana/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines.git)
 
 <h2>🤳Connect with me:</h2>
 
